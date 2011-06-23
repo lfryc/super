@@ -1,0 +1,30 @@
+[submodule "build"]
+	path = build
+	url = https://github.com/lfryc/build.git
+[submodule "parent"]
+	path = parent
+	url = https://github.com/lfryc/parent.git
+[submodule "checkstyle"]
+	path = checkstyle
+	url = https://github.com/lfryc/checkstyle.git
+[submodule "shade-transformers"]
+	path = shade-transformers
+	url = https://github.com/lfryc/shade-transformers.git
+[submodule "cdk"]
+	path = cdk
+	url = https://github.com/lfryc/cdk.git
+[submodule "core"]
+	path = core
+	url = https://github.com/lfryc/core.git
+[submodule "components"]
+	path = components
+	url = https://github.com/lfryc/components.git
+[submodule "showcase"]
+	path = showcase
+	url = https://github.com/lfryc/showcase.git
+[submodule "dev-examples"]
+	path = dev-examples
+	url = https://github.com/lfryc/dev-examples.git
+[submodule "archetypes"]
+	path = archetypes
+	url = https://github.com/lfryc/archetypes.git
